@@ -31,12 +31,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Ananya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ananya020406&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya020406&layout=compact&theme=radical)
-
----
-
 ## 📎 Resume
 [📄 View My Resume (PDF)](https://github.com/Ananya-246/Ananya-246/blob/main/Ananya_Resume.pdf)
 

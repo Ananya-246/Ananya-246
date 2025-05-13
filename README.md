@@ -38,7 +38,7 @@
 ---
 
 ## 📎 Resume
-[📄 View My Resume (PDF)](https://github.com/ananya020406/ananya020406/blob/main/Ananya_Resume.pdf)
+[📄 View My Resume (PDF)](https://github.com/Ananya-246/Ananya-246/blob/main/Ananya_Resume.pdf)
 
 ---
 

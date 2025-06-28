@@ -5,14 +5,15 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **Backend development** (Node.js, Express, MongoDB)
+- 🌱 Currently learning **Backend development** (Node.js, Express, MongoDB, Flask)
 - 🛠️ Strong in **Frontend development** (HTML, CSS, JavaScript, React)
-- 🕵️‍♀️ Interested in **Ethical Hacking** and **Vulnerability Assessments**
+- 🕵️‍♀️ Interested in **Ethical Hacking**,**Vulnerability Assessments** and **Web Development**
 - 🔍 Passionate about **real-world security applications** and **full-stack projects**
 
 ---
 
 ## 🧠 Projects I've Built
+- 🔐 **Password Strength Checker** – A web-based password strength checker that uses SHA-1 hashing and Have I Been Pwned API to detect breached passwords and provide real-time strength feedback.
 - 🔐 **Vulnerability Assessment on Web Application** – Manual testing with real-world attack scenarios
 - ☁️ **Weather App** – Fetches real-time data using OpenWeatherMap API (HTML/CSS/JS)
 - 👩‍💼 **Employee Management System** – Basic CRUD operations with a MySQL database
@@ -24,7 +25,6 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
 ---

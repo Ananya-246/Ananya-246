@@ -27,10 +27,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
----
-
-## 📎 Resume
-[📄 View My Resume (PDF)](https://github.com/Ananya-246/Ananya-246/blob/main/Ananya_Resume.pdf)
 
 ---
 
